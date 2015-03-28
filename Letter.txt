@@ -1,0 +1,27 @@
+Shrikant Tiwari | shrikant@gdmanagement.com
+Global Data Management Inc. 
+Direct: 732-734-0646?
+Email: shrikant@gdmanagement.com
+Fax # 732 750 50
+WEB: www.gdmanagement.com
+Dear Hiring Manager,
+
+I feel that my skills and experience are a great fit for this position. Please feel free to contact me to arrange an interview.
+My current role with Barclays Bank is BladeLogic Administrator that will end by April-10-2015, I'm availabe for H1b visa transfer.
+
+• I posses BladeLogic Infrastructure support/ maintenance, SSP, and YUM infrastructure related incidents / escalation during AMER shift. 
+• Provisioning, Configuration, and Deployment of server (Physical / Virtual)
+• Automate/ support BLPackage and deploy entire Linux estate (33,000+ Servers)
+• Generated estate compliance scan reports and build remediation jobs to close audit findings/ breaches.  
+• Created NSH scripts to support build automation via BL job
+• Designed, Developed and supported “Self Service Packaging” CLI’s in Python 2.8, Oracle 11g. 
+• On-board / support SSP user queries. 
+• RPM packaging and supported YUM infra. Created more than 400 RPM’s.
+• Managed migration from HPSA to BladeLogic and decommissioned HPSA infrastructure.
+• Created auto remediation tool in Python 2.8, Bladelogic API, and Oracle 11g. This tool calls BL Job to remediate system events. This saved manual efforts. This job runs as a process; reads netcool events (eg: TSM agent restart, fix standard TSM errors, logrotation errors, etc)
+• Created BL-job to deploy application to entire Unix/ Linux estate (Eg: Galaxy, Ganglia, Nimbus, mTree, Oracle feature enable)
+• Experienced in ITIL Incident/change management process.  (Remedy, ServiceNow, HPSC)
+I look forward to learning more about this opportunity.
+
+Regards
+Suresh Kumar Padmanabhan
