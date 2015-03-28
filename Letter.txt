@@ -9,13 +9,16 @@ WEB: www.gdmanagement.com
 Chitra
 Global Data Management Inc.
 
+Manhar
+Global Data Management Inc.
+
 
 Dear Hiring Manager,
 
 I feel that my skills and experience are a great fit for this position. Please feel free to contact me to arrange an interview.
 My current role with Barclays Bank is BladeLogic Administrator that will end by April-10-2015, I'm availabe for H1b visa transfer.
 
-• I posses BladeLogic Infrastructure support/ maintenance, SSP, and YUM infrastructure related incidents / escalation during AMER shift. 
+I posses BladeLogic Infrastructure support/ maintenance, SSP, and YUM infrastructure related incidents / escalation during AMER shift. 
 • Provisioning, Configuration, and Deployment of server (Physical / Virtual)
 • Automate/ support BLPackage and deploy entire Linux estate (33,000+ Servers)
 • Generated estate compliance scan reports and build remediation jobs to close audit findings/ breaches.  
