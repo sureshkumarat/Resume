@@ -1,6 +1,11 @@
 README file created on 03/27/2015 at 9:19 PM
+<<<<<<< HEAD
 git checkout -b "Vig" created
 git modified again -1
 git modified again -2
 git checkedout -b "Vig Hotfix -100"
 
+=======
+Added new branch with name issue53
+Finished fotter error
+>>>>>>> Issue53
